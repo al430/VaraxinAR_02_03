@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VaraxinAR_02_03</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="fill">Fill in your email and password to continue</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="remebmer">Remember password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="already">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or_log">or log in using</string>
+    <string name="h1">**********@mail.com</string>
+    <string name="h2">*********</string>
+
+    <string name="chats">Chats</string>
+    <string name="search">Search for a driver</string>
+    <string name="john">John Joshua</string>
+    <string name="thanks">Thanks for your service</string>
+    <string name="chino">Chinonso James</string>
+    <string name="chino2">Alright, i will be waiting</string>
+    <string name="raph">Raph Ron</string>
+    <string name="joy">Joy Ezekiel</string>
+</resources>
